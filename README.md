@@ -1,4 +1,4 @@
-# 1-bit_Mersenne_PKE
+# 1-bit Mersenne PKE
 The Mersenne-based public key encryption schemes were proposed by Aggarwal, Joux,Prakash, and Santha in (CRYPTO 2017).
 We impliment the Mersenne-based public key encryption scheme for one bit message.
 
